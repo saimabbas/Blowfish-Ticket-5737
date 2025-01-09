@@ -2,4 +2,4 @@
 
 # Blowfish Verification
 **Ticket Number:** 5737  
-**Requested Domain for Clearance:** example.com
+**Requested Domain for Clearance:** https://www.solcialapp.com/
